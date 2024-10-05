@@ -4,7 +4,6 @@ import { inter } from '@/app/ui/fonts';
 export default function RootLayout({ children, }: {
   children: React.ReactNode;
 }) {
-  // console.log("skjnfkefnk", inter);
 
   return (
     <html lang="en">
